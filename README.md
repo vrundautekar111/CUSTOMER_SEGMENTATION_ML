@@ -2,7 +2,7 @@ Customer Segmentation Using Machine Learning
 
 Customer Segmentation Using Machine Learning is a Python-based project that groups customers according to their annual income and spending behavior using the K-Means Clustering algorithm. The project helps identify customer groups, understand purchasing patterns, and support data-driven marketing strategies.
 
-Features
+Features 
 Data Preprocessing: Cleans customer data and handles missing or invalid values.
 K-Means Clustering: Groups customers into five segments based on income and spending score.
 Data Visualization: Displays interactive charts, customer distributions, and cluster comparisons.
