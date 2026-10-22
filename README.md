@@ -6,7 +6,7 @@ Features
 Data Preprocessing: Cleans customer data and handles missing or invalid values.
 K-Means Clustering: Groups customers into five segments based on income and spending score.
 Data Visualization: Displays interactive charts, customer distributions, and cluster comparisons.
-Cluster Evaluation: Uses the silhouette score to evaluate cluster separation.
+Cluster Evaluation: Uses the silhouette score to evaluate cluster separation.   
 Customer Segment Prediction: Predicts the cluster of a new customer based on their income and spending score.
 Interactive Dashboard: Provides a user-friendly dashboard built with Streamlit.
 Data Export: Allows users to download segmented customer data as a CSV file.
